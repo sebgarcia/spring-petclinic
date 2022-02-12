@@ -10,9 +10,12 @@ Sebastian Garcia
 ![GitHub Readme with Build Success highlighted](images/read-me-build.png)
 ![Screenshot of Build Passing](images/read-me-build-success.png)
 - The section of the POM file showing the coordinates after you’ve commented them out.
-
+![Maven Commmented Code](images/maven-coordinate-comment.png)
 - Your GitHub Actions dashboard showing the unsuccessful build after the breaking change.
+![Failed Dashboard](images/github-dash-fail.png)
+![Failed Detail](images/maven-failed-build.png)
 - Your GitHub repository with the readme.md file selected showing the build failed status after the GitHub workflow fails.
+![Failed Detail](images/readme-failed-build.png)
 - The section of the POM file showing the coordinates after you’ve fixed them.
 - Your GitHub Actions dashboard showing the successful build after the breaking change has been fixed.
 -  Your GitHub repository with the readme.md file selected showing the build success status after the GitHub workflow has recovered.
