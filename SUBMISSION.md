@@ -17,7 +17,9 @@ Sebastian Garcia
 - Your GitHub repository with the readme.md file selected showing the build failed status after the GitHub workflow fails.
 ![Failed Detail](images/readme-failed-build.png)
 - The section of the POM file showing the coordinates after you’ve fixed them.
+![POM.xml fixed](images/pom-fixed.png)
 - Your GitHub Actions dashboard showing the successful build after the breaking change has been fixed.
+![Fixed Dashboard](images/github-dash-fixed.png)
 -  Your GitHub repository with the readme.md file selected showing the build success status after the GitHub workflow has recovered.
-- A screen capture showing the version of Ant that you installed and its install directory.
+![Repo Fixed](images/readme-fixed-2.png)
 
